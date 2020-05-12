@@ -1,0 +1,3 @@
+/home/wheo/workspace/native_app/scte-104/build/CMakeFiles/edit_cache.dir
+/home/wheo/workspace/native_app/scte-104/build/CMakeFiles/rebuild_cache.dir
+/home/wheo/workspace/native_app/scte-104/build/CMakeFiles/tcpserver.dir

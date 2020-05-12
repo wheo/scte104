@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/wheo/workspace/native_app/scte-104/build",
+  "command": "/bin/g++-9    -g   -o CMakeFiles/tcpserver.dir/main.cpp.o -c /home/wheo/workspace/native_app/scte-104/main.cpp",
+  "file": "/home/wheo/workspace/native_app/scte-104/main.cpp"
+}
+]
